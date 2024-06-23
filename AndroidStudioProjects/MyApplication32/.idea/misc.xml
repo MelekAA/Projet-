@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23560910307898258" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout-w936dp/activity_login.xml" value="0.2182377049180328" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activity_detail.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activity_logiin.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activity_login.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activity_students.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/activitylogiin.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MyApplication32/app/src/main/res/layout/item.xml" value="0.18697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
